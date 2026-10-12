@@ -1,0 +1,3 @@
+[submodule "the-mathematics-of-guaranteed-ruin"]
+	path = the-mathematics-of-guaranteed-ruin
+	url = git@github.com:MorningstarLabs/the-mathematics-of-guaranteed-ruin.git
